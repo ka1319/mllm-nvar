@@ -1,0 +1,10 @@
+{"exp-1": {"question": "Is candidate 3 at the bottom a triangle or a star?"}}
+{"exp-2": {"question": "Does candidate 4 at the bottom have one circle or two?"}}
+{"exp-3": {"question": "Are candidates 2 and 6 at the bottom facing the same direction or opposite?"}}
+{"exp-4": {"question": "Is candidate 1 at the bottom pointing up or down?"}}
+{"exp-5": {"question": "Is candidate 5 at the bottom a circle or candidate 3?"}}
+{"exp-6": {"question": "Is candidate 3 at the bottom yellow or blue?"}}
+{"exp-7": {"question": "Is there one or two color inside of candidate 4 at the bottom?"}}
+{"exp-8": {"question": "Is candidate 5 at the bottom a diamond or a triangle?"}}
+{"exp-9": {"question": "Is candidate 6 at the bottom a diamond or a triangle?"}}
+{"exp-10": {"question": "Is candidate 1 at the bottom a triangle or a circle?"}}

@@ -1,0 +1,556 @@
+"Puzzle:
+[[blue five-point star, blue five-point star],
+ [blue five-point star, ?]]
+
+Options:
+1: blue cross
+2: blue four-point star
+3: blue five-point star
+4: blue plus sign
+5: blue triangle
+6: blue crescent facing left"
+"Puzzle:
+[[yellow percentage sign, yellow percentage sign],
+ [yellow percentage sign, ?]]
+
+Options:
+1: yellow percentage sign
+2: yellow plus sign
+3: two yellow circles
+4: one yellow circle
+5: yellow division sign
+6: yellow cross"
+"Puzzle:
+[[blue crescent facing left, blue crescent facing right],
+ [blue crescent facing left, ?]]
+
+Options:
+1: blue crescent facing down
+2: blue crescent facing left
+3: two blue crescents, one facing left and one right, back to back
+4: empty
+5: blue crescent facing up
+6: blue crescent facing right"
+"Puzzle:
+[[yellow arrow pointing to the top left corner, yellow arrow pointing to the top right corner],
+ [yellow arrow pointing to the bottom left corner, ?]]
+
+Options:
+1: yellow arrow pointing up
+2: yellow arrow pointing down
+3: yellow diagonal rectangle
+4: yellow arrow pointing to the bottom right corner
+5: yellow arrow pointing to the bottom left corner
+6: yellow double arrow pointing to the top left corner and the bottom right corner"
+"Puzzle:
+[[blue half-circle facing up, blue triangle pointing up],
+ [blue half-circle facing down, ?]]
+
+Options:
+1: blue triangle pointing down
+2: blue triangle pointing up
+3: blue diamond
+4: blue half-circle facing down
+5: blue complete circle
+6: blue half-circle facing left"
+"Puzzle:
+[[yellow parallelogram with vertical stripes spanning from the top left to the bottom right, blue parallelogram with vertical stripes spanning from the bottom left to the top right],
+ [yellow parallelogram with vertical stripes spanning from the bottom left to the top right, ?]]
+
+Options:
+1: blue parallelogram with vertical stripes spanning horizontally
+2: blue parallelogram with vertical stripes spanning from the top left to the bottom right
+3: vertical yellow parallelogram with horizontal stripes
+4: blue parallelogram with vertical stripes spanning from the bottom left to the top right
+5: yellow parallelogram with vertical stripes spanning from the top left to the bottom right
+6: yellow parallelogram with vertical stripes spanning from the bottom left to the top right"
+"Puzzle:
+[[blue parallelogram with left-leaning stripes spanning from the bottom left to the top right, blue parallelogram with right-leaning stripes spanning from the top left to the bottom right],
+ [yellow parallelogram with right-leaning stripes spanning from the top left to the bottom right, ?]]
+
+Options:
+1: blue parallelogram with right-leaning stripes spanning from the top left to the bottom right
+2: yellow parallelogram with left-leaning stripes spanning from the bottom left to the top right
+3: half-blue, half-yellow parallelogram with right-leaning stripes spanning from the top left to the bottom right
+4: yellow parallelogram with right-leaning stripes spanning from the top left to the bottom right
+5: horizontal yellow parallelogram with left-leaning stripes
+6: blue parallelogram with left-leaning stripes spanning from the bottom left to the top right"
+"Puzzle:
+[[blue triangle, blue diamond],
+ [yellow-striped triangle, ?]]
+
+Options:
+1: yellow-striped diamond
+2: yellow-striped triangle
+3: blue diamond
+4: yellow triangle
+5: yellow diamond
+6: blue-striped diamond"
+"Puzzle:
+[[yellow triangle, yellow diamond],
+ [yellow triangle with a right-leaning cross-line, ?]]
+
+Options:
+1: yellow triangle with two cross-lines, one right-leaning and one left-leaning
+2: yellow diamond with a right-leaning cross-line
+3: right-leaning line
+4: yellow triangle with a right-leaning cross-line
+5: yellow diamond
+6: yellow triangle"
+"Puzzle:
+[[yellow triangle with a yellow smaller circle inside, yellow triangle],
+ [yellow circle with a yellow smaller circle inside, ?]]
+
+Options:
+1: yellow circle
+2: yellow circle with a smaller yellow triangle inside
+3: yellow circle with a smaller yellow circle inside
+4: yellow triangle with a smaller yellow circle inside
+5: smaller yellow circle
+6: yellow triangle"
+"Puzzle:
+[[yellow right-leaning line with one small circle at the bottom, yellow right-leaning line with one small circle at the bottom, yellow right-leaning line with one small circle at the bottom],
+ [yellow right-leaning line with two medium circles at the bottom, yellow right-leaning line with two medium circles at the bottom, yellow right-leaning line with two medium circles at the bottom],
+ [yellow right-leaning line with three large circles at the bottom, yellow right-leaning line with three large circles at the bottom, ?]]
+
+Options:
+1: yellow right-leaning line with three large circles at the bottom
+2: yellow left-leaning line with two large circles at the bottom
+3: yellow left-leaning line with three large circles at the bottom
+4: yellow cross with one large circle in the middle
+5: yellow right-leaning line with one large circle in the middle
+6: yellow right-leaning line"
+"Puzzle:
+[[small blue triangle with a dot in the center, medium blue triangle with a dot in the center, large blue triangle with a dot in the center],
+ [medium blue triangle with a dot in the center, large blue triangle with a dot in the center, x-large blue triangle with a dot in the center],
+ [large blue triangle with a dot in the center, x-large blue triangle with a dot in the center, ?]]
+
+Options:
+1: large blue triangle
+2: xx-large blue triangle
+3: xx-large blue triangle with a dot in the center
+4: medium blue triangle
+5: x-large blue triangle with a dot in the center
+6: xx-large blue inverted triangle"
+"Puzzle:
+[[yellow diamond, yellow diamond on the left and a blue diamond on the right overlapping horizontally, yellow diamond on the left and a blue diamond on the right non-overlapping],
+ [two yellow diamonds overlapping vertically, two vertically overlapped yellow diamonds on the left and two vertically overlapped blue diamonds on the right overlapping horizontally, two vertically overlapped yellow diamonds on the left and two vertically overlapped blue diamonds on the right non-overlapping],
+ [two vertically stacked yellow diamonds non-overlapping, two sets of yellow diamonds on the left and a blue diamond on the right overlapping horizontally stacked vertically, ?]]
+
+Options:
+1: two sets of yellow diamonds on the left and a blue diamond on the right overlapping horizontally stacked vertically
+2: two non-overlapping vertically stacked blue diamonds on the left and two non-overlapping vertically stacked yellow diamonds on the right
+3: two vertically stacked yellow diamonds, non-overlapping
+4: blue diamond on the left and a yellow diamond on the right, non-overlapping
+5: yellow diamond on the left and a blue diamond on the right, non-overlapping
+6: two non-overlapping vertically stacked yellow diamonds on the left and two non-overlapping vertically stacked blue diamonds on the right"
+"Puzzle:
+[[blue triangle, blue cross, blue square],
+ [blue square, blue triangle, blue cross],
+ [blue cross, blue square, ?]]
+
+Options:
+1: blue triangle
+2: blue square
+3: blue plus sign
+4: blue inverted triangle
+5: blue square with a blue plus sign inside
+6: blue circle with a blue triangle inside"
+"Puzzle:
+[[yellow-striped square with a yellow triangle on the top sitting straight, yellow-striped square with a yellow triangle on the top slightly tilted to the left],
+ [yellow-striped square with a yellow triangle on the top tilted a lot to the left, ?]]
+
+Options:
+1: yellow-striped square with a yellow triangle on the bottom sitting straight
+2: yellow-striped square with a yellow triangle on the top slightly tilted to the right
+3: yellow-striped square with a yellow triangle on the top tilted a lot to the right
+4: yellow-striped square sitting straight
+5: yellow-striped square with a yellow triangle on the top pointing left
+6: yellow-striped square with a yellow triangle on the top pointing right"
+"Puzzle:
+[[medium solid blue circle, large solid blue circle],
+ [medium blue plus sign, ?]]
+
+Options:
+1: medium blue circle
+2: large solid blue circle
+3: medium solid blue circle
+4: large blue plus sign
+5: small blue plus sign
+6: large blue circle"
+"Puzzle:
+[[one yellow square in the middle right, two horizontally stacked yellow squares in the middle right],
+ [three horizontally stacked yellow squares in the middle right, ?]]
+
+Options:
+1: three horizontally stacked yellow squares in the top left
+2: three vertically stacked yellow squares in the middle bottom
+3: one yellow square in the middle left
+4: two horizontally stacked yellow squares in the middle left
+5: four horizontally stacked yellow squares in the middle
+6: one yellow square at the bottom right"
+"Puzzle:
+[[yellow star, yellow crescent facing left],
+ [blue star, ?]]
+
+Options:
+1: yellow star 
+2: blue star
+3: yellow crescent facing left
+4: blue crescent facing left
+5: solid yellow crescent facing left
+6: solid blue crescent facing left"
+"Puzzle:
+[[x-large yellow horizontal diamond with horizontal stripes, large yellow horizontal diamond with horizontal stripes],
+ [medium yellow horizontal diamond with horizontal stripes, ?]]
+
+Options:
+1: x-large yellow horizontal diamond with horizontal stripes
+2: small yellow square with right-leaning stripes
+3: medium yellow square with right-leaning stripes
+4: large yellow horizontal diamond tilted to the right with left-leaning stripes
+5: small yellow horizontal diamond with horizontal stripes
+6: x-large yellow vertical diamond with vertical stripes"
+"Puzzle:
+[[yellow-striped triangle pointing down, blue-striped triangle pointing down],
+ [yellow-striped triangle pointing down, ?]]
+
+Options:
+1: blue triangle pointing down
+2: yellow triangle pointing down
+3: yellow-striped triangle pointing up
+4: yellow triangle pointing up
+5: blue-striped triangle pointing up
+6: blue-striped triangle pointing down"
+"Puzzle:
+[[left-to-right arrow at the bottom, left-to-right arrow at the bottom + bottom-to-up arrow on the right],
+ [left-to-right arrow at the bottom + bottom-to-up on the right + right-to-left arrow on the top, ?]]
+
+Options:
+1: top-to-bottom arrow on the left + left-to-right arrow at the bottom
+2: left-to-right arrow at the bottom + right-to-left arrow on the top + top-to-bottom arrow on the left
+3: left-to-right arrow at the bottom + bottom-to-up on the right
+4: left-to-right arrow at the bottom + bottom-to-up on the right + right-to-left arrow on the top + top-to-bottom arrow on the left
+5: right-to-left arrow on the top + top-to-bottom arrow on the left
+6: right-to-left arrow at the bottom + bottom-to-up on the left + left-to-right arrow on the top + top-to-bottom arrow on the right"
+"Puzzle:
+[[yellow triangle, blue triangle],
+ [yellow square, ?]]
+
+Options:
+1: blue-striped square
+2: yellow triangle
+3: yellow square
+4: blue square
+5: blue inverted triangle
+6: yellow triangle"
+"Puzzle:
+[[solid vertical rectangle on the left, solid vertical rectangle on the middle left],
+ [solid vertical rectangle in the middle right, ?]]
+
+Options:
+1: two solid vertical rectangles in the right and the middle right
+2: solid vertical rectangle on the left
+3: vertical rectangle on the right
+4: solid horizontal rectangle in the middle
+5: solid vertical rectangle on the right
+6: solid horizontal rectangle at the bottom"
+"Puzzle:
+[[four vertically stacked blue circles in the middle, three vertically stacked blue circles in the middle top],
+ [two vertically stacked blue circles in the middle top, ?]]
+
+Options:
+1: one blue circle in the middle top
+2: one blue circle in the middle bottom
+3: three vertically stacked blue circles in the middle top
+4: four horizontally stacked blue circles in the middle
+5: empty
+6: two vertically stacked blue circles in the middle bottom"
+"Puzzle:
+[[four vertically stacked yellow curves facing up, three vertically stacked yellow curves facing down],
+ [two vertically stacked yellow curves facing up, ?]]
+
+Options:
+1: yellow curve facing up
+2: three vertically stacked yellow curves facing down
+3: yellow curve facing right
+4: yellow curve facing down
+5: two vertically stacked yellow curves facing down
+6: three vertically stacked yellow curves facing up"
+"Puzzle:
+[[blue diamond, blue diamond with the top left edge missing],
+ [bottom half of a blue diamond, ?]]
+
+Options:
+1: right half of a blue diamond
+2: top half of a blue diamond
+3: bottom left quarter of a blue diamond
+4: blue diamond with bottom right edge missing
+5: left half of a blue diamond
+6: blue-striped diamond"
+"Puzzle:
+[[large yellow-striped circle, medium blue-striped circle],
+ [small yellow-striped circle, ?]]
+
+Options:
+1: small blue-striped circle
+2: smaller blue-striped circle
+3: small yellow circle
+4: large blue-striped circle
+5: medium yellow-striped circle
+6: smaller yellow circle"
+"Puzzle:
+[[solid yellow vertical bar on the left, solid blue vertical bar on the left],
+ [solid yellow horizontal bar on the top, ?]]
+
+Options:
+1: solid yellow horizontal bar on the bottom
+2: solid blue horizontal bar on the top
+3: yellow vertical bar on the left
+4: blue horizontal bar on the top
+5: solid blue horizontal bar on the bottom
+6: yellow horizontal bar on the top"
+"Puzzle:
+[[blue triangle pointing up, yellow triangle pointing down],
+ [blue arrow pointing left, ?]]
+
+Options:
+1: yellow arrow pointing left
+2: yellow arrow pointing right
+3: blue arrow pointing down
+4: blue triangle pointing down
+5: yellow triangle pointing up
+6: blue triangle pointing right"
+"Puzzle:
+[[solid circle, circle, solid circle],
+ [diamond, solid diamond, diamond],
+ [solid triangle, triangle, ?]]
+
+Options:
+1: solid diamond 
+2: diamond
+3: square
+4: inverted solid triangle
+5: solid circle
+6: solid triangle"
+"Puzzle:
+[[diamond, empty, solid diamond],
+ [solid hexagon, empty, hexagon],
+ [circle, empty, ?]]
+
+Options:
+1: circle
+2: solid hexagon rotated 90 degree
+3: hexagon rotated 90 degree
+4: half-solid circle
+5: diamond
+6: solid circle"
+"Puzzle:
+[[triangle, rectangle, pentagon],
+ [one dot, two dots, three dots],
+ [plus sign, two plus signs, ?]]
+
+Options:
+1: cross
+2: two crosses
+3: triangle
+4: three plus signs
+5: hexagon
+6: four dots"
+"Puzzle:
+[[one dot, two dots, three dots, four dots, ?]]
+
+Options:
+1: seven dots
+2: five dots
+3: four dots
+4: one dot
+5: six dots
+6: two dots"
+"Puzzle:
+[[vertical line, horizontal line],
+ [vertical line, ?]]
+
+Options:
+1: cross
+2: plus sign
+3: vertical line
+4: horizontal line
+5: right-leaning line
+6: left-leaning line"
+"Puzzle:
+[[arrow pointing left, arrow pointing bottom-left, arrow pointing down, arrow pointing bottom-right, ?]]
+
+Options:
+1: arrow pointing up
+2: arrow pointing down
+3: arrow pointing top-left
+4: arrow pointing bottom-right
+5: arrow pointing top-right
+6: arrow pointing right"
+"Puzzle:
+[[circle, large thick circle, x-large extra thick circle, triangle, ?]]
+
+Options:
+1: x-large extra thick triangle
+2: large, thick triangle
+3: xx-large double extra thick triangle
+4: square
+5: thick square
+6: inverted thick triangle"
+"Puzzle:
+[[solid triangle pointing up, triangle pointing left],
+ [solid triangle pointing down, ?]]
+
+Options:
+1: solid triangle pointing right
+2: diamond
+3: solid triangle pointing left
+4: triangle pointing right
+5: triangle pointing up
+6: triangle pointing down"
+"Puzzle:
+[[vertical line, right-leaning line],
+ [horizontal line, ?]]
+
+Options:
+1: horizontal line
+2: plus sign
+3: right-leaning line
+4: cross
+5: left-leaning line
+6: vertical line"
+"Puzzle:
+[[one dot, two dots],
+ [three dots, ?]]
+
+Options:
+1: five dots
+2: six dots
+3: seven dots
+4: one dot
+5: four dots
+6: two dots"
+"Puzzle:
+[[spearhead, spearhead],
+ [spearhead, ?]]
+
+Options:
+1: cross and another cross rotated 45 degrees
+2: square block with a cross and another cross rotated 45 degrees clockwise inside
+3: square block with a cross rotated 45 degrees clockwise inside
+4: cross
+5: spearhead
+6: extended spearhead"
+"Puzzle:
+[[rectangle with a plus sign inside, rectangle with a plus sign inside],
+ [rectangle with a plus sign inside, ?]]
+
+Options:
+1: rectangle with a plus sign in the right half of the shape
+2: inverted rectangle with a vertical line inside
+3: smaller square with a plus sign inside
+4: inverted rectangle with a plus sign inside
+5: rectangle with a plus sign inside
+6: rectangle"
+"Puzzle:
+[[rectangle with the solid top left quarter of a circle in the bottom right corner, rectangle with the solid top right quarter of a circle in the bottom left corner],
+ [rectangle with the solid bottom left quarter of a circle in the top right corner, ?]]
+
+Options:
+1: rectangle with the bottom right quarter of a circle in the top left corner
+2: rectangle with a solid oval inside
+3: rectangle with the solid top right quarter of a circle in the bottom left corner
+4: rectangle with the solid right half of a circle on the left
+5: rectangle with the solid bottom right quarter of a circle in the top left corner
+6: rectangle with the solid bottom left quarter of a circle in the top right corner"
+"Puzzle:
+[[solid triangle pointing left, solid triangle pointing right],
+ [solid triangle pointing left, ?]]
+
+Options:
+1: compressed triangle pointing right
+2: solid triangle pointing left
+3: two triangles pointing left and right
+4: triangle pointing left
+5: solid triangle pointing right
+6: triangle pointing right"
+"Puzzle:
+[[rectangle with the top left quarter of an oval in the bottom right corner, rectangle with the top right quarter of a smaller rectangle in the bottom left corner],
+ [rectangle with the bottom left quarter of an oval in the top right corner, ?]]
+
+Options:
+1: rectangle with the bottom right quarter of a smaller rectangle in the top left corner
+2: rectangle with the top right quarter of a smaller rectangle in the bottom left corner
+3: rectangle with the top left quarter of an oval in the bottom right corner
+4: rectangle with the right half of a diamond on the left
+5: rectangle with the bottom left quarter of an oval in the top right corner
+6: rectangle with a horizontal line in the top half and a vertical line in the left half"
+"Puzzle:
+[[circle with a solid bottom half, square with a solid bottom half],
+ [circle with a solid bottom half, ?]]
+
+Options:
+1: square with a solid left-half
+2: square with a solid bottom half
+3: circle with a solid right-half
+4: circle with a solid bottom half
+5: square with a solid top half
+6: circle with a solid top half."
+"Puzzle:
+[[diamond with right-leaning stripes, solid diamond],
+ [square with vertical stripes, ?]]
+
+Options:
+1: square
+2: square with vertical stripes
+3: diamond with right-leaning stripes
+4: solid square
+5: diamond
+6: solid diamond"
+"Puzzle:
+[[diamond with a plus sign inside, diamond],
+ [square with a plus sign inside, ?]]
+
+Options:
+1: square with a plus sign inside
+2: square with a diamond and a plus sign inside
+3: diamond with a plus sign inside
+4: diamond
+5: square
+6: square with a diamond inside"
+"Puzzle:
+[[small circle, small circle, small circle],
+ [small and medium circles with the same center, small and medium circles with the same center, small and medium circles with the same center],
+ [small, medium, and large circles with the same center, small, medium and large circles with the same center, ?]]
+
+Options:
+1: four different sizes of circles with the same center
+2: small circle
+3: small, medium, and large circles with the same center
+4: small and medium-large circles with the same center
+5: medium circle
+6: small and medium circles with the same center"
+"Puzzle:
+[[diamond, star],
+ [diamond with a dot in the center, ?]]
+
+Options:
+1: diamond and a star inside
+2: diamond
+3: star with a dot in the center
+4: dot
+5: diamond and a dot in the center
+6: star"
+"Puzzle:
+[[pointed cross, circle with a pointed cross inside, square with a pointed cross inside],
+ [solid diamond, circle with a solid diamond inside, square with a solid diamond inside],
+ [plus sign, circle with a plus sign inside, ?]]
+
+Options:
+1: circle with a solid diamond inside
+2: square with a pointed cross inside
+3: small square with a plus sign inside
+4: square
+5: solid diamond
+6: square with a solid diamond inside"

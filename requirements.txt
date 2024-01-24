@@ -1,0 +1,13 @@
+torch
+Pillow
+accelerate
+git+https://github.com/huggingface/transformers
+tqdm
+torchvision
+inflect
+tiktoken
+matplotlib
+transformers_stream_generator
+einops
+pandas
+google-cloud-aiplatform

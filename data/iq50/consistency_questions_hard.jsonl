@@ -1,0 +1,10 @@
+{"exp-6": {"question": "In candidate 5 at the bottom, is left part higher or right part?"}}
+{"exp-7": {"question": "In candidate 3 at the bottom, is the blue part in the left or right?"}}
+{"exp-9": {"question": "In candidate 1 at the bottom, is there one line or two lines crossing the triangle?"}}
+{"exp-10": {"question": "In candidate 4 at the bottom, is there a triangle inside a circle or outside?"}}
+{"exp-17": {"question": "In candidate 5 at the bottom, are the square boxes arranged vertically or horizontally?"}}
+{"exp-18": {"question": "In candidate 5 at the bottom, is the moon shape hollow or solid?"}}
+{"exp-21": {"question": "In candidate 4 at the bottom, are the arrows arranged clockwise or counterclockwise?"}}
+{"exp-24": {"question": "In candidate 4 at the bottom, are the circles arranged vertically or horizontally?"}}
+{"exp-42": {"question": "In candidate 5 at the bottom, is the black part in the top right corner of the rectangle or top left?"}}
+{"exp-45": {"question": "In candidate 1 at the bottom, is the black part in left or right?"}}
